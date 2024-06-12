@@ -1,3 +1,0 @@
-- Changes app color, text color, UI style 
-- Show snackbar when user tap on ListTile on fav word
-- Add New Page: History
